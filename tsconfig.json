@@ -1,5 +1,4 @@
 {
-    "extends": "../../../tsconfig.root.json",
     "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
     "compilerOptions": {
         "outDir": "lib",
